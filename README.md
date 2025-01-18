@@ -68,9 +68,9 @@
 
 <hr>
 
-### ✅ 요구사항 명세서
+### ✅ 요구사항 정의서
 
-[요구사항 명세서 바로가기](https://docs.google.com/spreadsheets/d/e/2PACX-1vTBP1-kjZYvCsfdSiHVA75YYAZU62fIOxilRppYxbJdQQJnVQLMQFsVUZkD93QH-k62kDuK1OXRuPm3/pubhtml?gid=0&single=true)
+[요구사항 정의서 바로가기](https://docs.google.com/spreadsheets/d/e/2PACX-1vTBP1-kjZYvCsfdSiHVA75YYAZU62fIOxilRppYxbJdQQJnVQLMQFsVUZkD93QH-k62kDuK1OXRuPm3/pubhtml?gid=0&single=true)
 
 ![CLASSDOM 요구사항명세서](https://github.com/user-attachments/assets/deca3afb-e308-4a86-92ea-d876aa23ecd6)
 
