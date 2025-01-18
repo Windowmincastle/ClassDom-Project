@@ -61,7 +61,8 @@
 
 ### 📝 WBS
 
-[WBS 바로가기](https://docs.google.com/spreadsheets/d/1N4AJbyaa1NJ6M8YIJl8KAIGHO5Kpb8aFSmN314LBxV8/edit#gid=0)
+[WBS 바로가기](https://docs.google.com/spreadsheets/d/e/2PACX-1vTBP1-kjZYvCsfdSiHVA75YYAZU62fIOxilRppYxbJdQQJnVQLMQFsVUZkD93QH-k62kDuK1OXRuPm3/pubhtml?gid=1691021735&single=true)
+
 
 <img src="https://github.com/beyond-sw-camp/be07-1st-6team-classdom/blob/main/classdom/image/classdom%20project%20wbs.jpg"/>
 
@@ -69,9 +70,9 @@
 
 ### ✅ 요구사항 명세서
 
-[요구사항 명세서 바로가기](https://docs.google.com/spreadsheets/d/1N4AJbyaa1NJ6M8YIJl8KAIGHO5Kpb8aFSmN314LBxV8/edit#gid=26050374)
+[요구사항 명세서 바로가기](https://docs.google.com/spreadsheets/d/e/2PACX-1vTBP1-kjZYvCsfdSiHVA75YYAZU62fIOxilRppYxbJdQQJnVQLMQFsVUZkD93QH-k62kDuK1OXRuPm3/pubhtml?gid=0&single=true)
 
-<img src="https://github.com/beyond-sw-camp/be07-1st-6team-classdom/blob/main/classdom/image/class%20dom%20project%20%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EB%AA%85%EC%84%B8%EC%84%9C.jpg"/>
+![CLASSDOM 요구사항명세서](https://github.com/user-attachments/assets/deca3afb-e308-4a86-92ea-d876aa23ecd6)
 
 <hr>
 
