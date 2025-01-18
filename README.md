@@ -2,8 +2,6 @@
 <p align="center"><img src="https://github.com/beyond-sw-camp/be07-1st-6team-classdom/blob/main/classdom/image/classdom.jpg" width="1000" height="300"/></p>
 
 <hr>
-
-### 🤗 팀명 : 꿈은 거창하게
  
 ### 🤭 팀원
 
