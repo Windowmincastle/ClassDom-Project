@@ -688,7 +688,7 @@ END
 <img src="https://github.com/beyond-sw-camp/be07-1st-6team-classdom/blob/main/classdom/image/join.png">
 </details>
 <details>
-<summary><b>classdom의 전체 강좌를 조회</b></summary>
+<summary><b>전체 강좌 조회</b></summary>
 <img src="https://github.com/beyond-sw-camp/be07-1st-6team-classdom/blob/main/classdom/image/user_course_select.png">
 </details>
 <details>
